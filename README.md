@@ -30,6 +30,7 @@ LinkedIn: https://www.linkedin.com/in/rbba
 | Notion AI | Meeting notes, project documentation, team SOPs |
 | Gamma | Rapid deck creation for stakeholder and C-suite presentations |
 | Make (Integromat) | Workflow automation across marketing tools |
+| ElevenLabs | AI voiceovers for avatar videos used in B2B lead generation campaigns and content |
 
 ---
 
